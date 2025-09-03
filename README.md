@@ -5,15 +5,15 @@
 
 A comprehensive real-time Anti-Money Laundering detection system built with machine learning and rule-based approaches to identify suspicious financial activities, prevent fraud, and ensure regulatory compliance.
 
-## 🚀 Features
+##  Features
 
 ### Core Detection Capabilities
-- **🤖 Machine Learning Models**
+- ** Machine Learning Models**
   - Isolation Forest for unsupervised anomaly detection
   - Autoencoder neural networks for pattern recognition
   - Real-time scoring and threshold-based alerting
 
-- **📋 Rule-Based Detection**
+- **Rule-Based Detection**
   - Structuring detection (multiple transactions below reporting thresholds)
   - Layering detection (complex transaction chains)
   - Velocity anomaly detection (unusual transaction frequency)
@@ -24,25 +24,25 @@ A comprehensive real-time Anti-Money Laundering detection system built with mach
   - Scalable microservices architecture
 
 ### Monitoring & Visualization
-- **📊 Interactive Dashboard**
+- ** Interactive Dashboard**
   - Real-time alert monitoring
   - Transaction analytics and trends
   - Model performance metrics
   - Risk assessment visualizations
 
-- **🚨 Multi-Channel Alerting**
+- ** Multi-Channel Alerting**
   - Email notifications for critical alerts
   - Real-time dashboard updates
   - Structured logging for audit trails
   - Rate limiting and duplicate prevention
 
 ### Data Management
-- **📈 Synthetic Data Generation**
+- ** Synthetic Data Generation**
   - Realistic transaction patterns
   - Configurable suspicious activity scenarios
   - Customer profile simulation
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
@@ -57,7 +57,7 @@ A comprehensive real-time Anti-Money Laundering detection system built with mach
 └─────────────────┘    └──────────────────┘    └─────────────────┘
 ```
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -80,7 +80,7 @@ A comprehensive real-time Anti-Money Laundering detection system built with mach
    mkdir -p models data logs
    ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Run the Demo
 Get started quickly with a demonstration of the system capabilities:
@@ -132,7 +132,7 @@ STRUCTURING_THRESHOLD = 10000  # Amount in USD
 LAYERING_COMPLEXITY_THRESHOLD = 5  # Number of hops
 ```
 
-## 🔍 Detection Methods
+##  Detection Methods
 
 ### Machine Learning Approaches
 
@@ -166,7 +166,7 @@ Identifies unusual transaction frequency patterns:
 - Real-time velocity monitoring
 - Statistical outlier detection
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 The system achieves the following performance benchmarks:
 
@@ -176,7 +176,7 @@ The system achieves the following performance benchmarks:
 | Autoencoder | 98.7% | 96.3% | 89.4% | 92.7% |
 | Rule Engine | 95.5% | 88.2% | 92.1% | 90.1% |
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 ```bash
@@ -195,7 +195,7 @@ Fine-tune detection sensitivity in `config/settings.py`:
 - Confidence thresholds for alerts
 - Time windows for pattern analysis
 
-## 🚨 Alert Management
+##  Alert Management
 
 ### Risk Levels
 - **Critical**: Immediate attention required
@@ -209,7 +209,7 @@ Fine-tune detection sensitivity in `config/settings.py`:
 - Structured logs for compliance reporting
 - API webhooks for system integration
 
-## 🧪 Testing
+##  Testing
 
 ### Unit Tests
 ```bash
@@ -226,7 +226,7 @@ python -m pytest tests/integration/
 python tests/load_test.py
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── src/
@@ -246,7 +246,7 @@ python tests/load_test.py
 └── requirements.txt     # Python dependencies
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -254,17 +254,17 @@ python tests/load_test.py
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with scikit-learn, TensorFlow, and Apache Kafka
 - Streamlit for the interactive dashboard
 - Inspired by real-world AML detection challenges
 
-## 📞 Support
+## Support
 
 For questions and support:
 - Create an issue in this repository
