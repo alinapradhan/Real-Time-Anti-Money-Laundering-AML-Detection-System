@@ -1,8 +1,5 @@
 # Real-Time Anti-Money Laundering (AML) Detection System
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A comprehensive real-time Anti-Money Laundering detection system built with machine learning and rule-based approaches to identify suspicious financial activities, prevent fraud, and ensure regulatory compliance.
 
 ##  Features
