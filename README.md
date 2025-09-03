@@ -15,7 +15,7 @@ A comprehensive real-time Anti-Money Laundering detection system built with mach
   - Layering detection (complex transaction chains)
   - Velocity anomaly detection (unusual transaction frequency)
 
-- **⚡ Real-Time Processing**
+- ** Real-Time Processing**
   - Apache Kafka-based streaming pipeline
   - Sub-second transaction processing
   - Scalable microservices architecture
@@ -270,4 +270,4 @@ For questions and support:
 
 ---
 
-**⚠️ Disclaimer**: This system is for educational and demonstration purposes. For production use in financial institutions, ensure compliance with local regulations and conduct thorough security audits.
+** Disclaimer**: This system is for educational and demonstration purposes. For production use in financial institutions, ensure compliance with local regulations and conduct thorough security audits.
