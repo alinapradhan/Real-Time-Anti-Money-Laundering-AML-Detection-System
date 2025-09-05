@@ -4,7 +4,7 @@ A comprehensive real-time Anti-Money Laundering detection system built with mach
   
 ##  Features
  
-### Core Detection Capabilities
+### Core Detection Capabilities 
 - ** Machine Learning Models**
   - Isolation Forest for unsupervised anomaly detection
   - Autoencoder neural networks for pattern recognition
