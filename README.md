@@ -8,7 +8,7 @@ A comprehensive real-time Anti-Money Laundering detection system built with mach
 - ** Machine Learning Models**
   - Isolation Forest for unsupervised anomaly detection
   - Autoencoder neural networks for pattern recognition
-  - Real-time scoring and threshold-based alerting
+  - Real-time scoring and threshold-based alerting 
 
 - **Rule-Based Detection**
   - Structuring detection (multiple transactions below reporting thresholds)
